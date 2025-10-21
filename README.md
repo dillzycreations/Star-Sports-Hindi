@@ -1,7 +1,7 @@
 <a id="readme-top"></a>
 <br />
 <div align="center">
-  <a href="https://github.com/Allrounder745/Star-Sports-Hindi">
+  <a href="https://dillzycreations.github.io/Star-Sports-Hindi/">
     <img src="https://i.ibb.co/q0ZNF5v/starsports-logo.png" alt="Star Sports Hindi Logo" width="140" height="140" style="border-radius:20px; box-shadow:0 0 25px #2196F3;">
   </a>
 
@@ -113,7 +113,7 @@ No setup required! Just use the **iframe embed** to display Star Sports Hindi on
 
 ### Iframe Embed Example
 ```html
-<iframe src="https://yourdomain.com/starsports-hindi" 
+<iframe src="https://dillzycreations.github.io/Star-Sports-Hindi/" 
         width="100%" 
         height="650px" 
         frameborder="0" 
