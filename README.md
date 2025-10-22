@@ -2,7 +2,7 @@
 <br />
 <div align="center">
   <a href="https://dillzycreations.github.io/Star-Sports-Hindi/">
-    <img src="https://i.ibb.co/q0ZNF5v/starsports-logo.png" alt="Star Sports Hindi Logo" width="140" height="140" style="border-radius:20px; box-shadow:0 0 25px #2196F3;">
+    <img src="https://raw.githubusercontent.com/dillzycreations/Star-Sports-Hindi/refs/heads/main/star.png" alt="Star Sports Hindi Logo" width="140" height="140" style="border-radius:20px; box-shadow:0 0 25px #2196F3;">
   </a>
 
   <h1 align="center" style="font-family:'Roboto Black',sans-serif;font-weight:900;font-size:3em;background:linear-gradient(90deg,#1976D2,#E91E63);-webkit-background-clip:text;color:transparent;">
